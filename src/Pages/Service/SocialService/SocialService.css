@@ -1,0 +1,12 @@
+.services {
+    border-radius: 8px;
+    background-color: whitesmoke;
+    justify-content: center;
+    padding: 20px;
+    margin: 5px;
+}
+
+.services img {
+    border-radius: 8px;
+    margin-left: 40px;
+}
