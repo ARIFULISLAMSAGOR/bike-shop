@@ -2,6 +2,7 @@ import { Route, Routes } from 'react-router-dom';
 import './App.css';
 import About from './Pages/About/About';
 import ManageInventories from './Pages/About/ManageIntventories/ManageInventories';
+import AddItem from './Pages/AddItem/AddItem';
 import Home from './Pages/Home/Home/Home';
 import NotFound from './Pages/Home/NotFound/NotFound';
 import Login from './Pages/Login/Login/Login';
@@ -18,6 +19,7 @@ function App() {
         <Route path='/login' element={<Login></Login>}></Route>
         <Route path='/register' element={<Register></Register>}></Route>
         <Route path='/manage' element={<ManageInventories></ManageInventories>}></Route>
+        <Route path='/additem' element={<AddItem></AddItem>}></Route>
         <Route path='*' element={<NotFound></NotFound>}></Route>
       </Routes>
       <Footer></Footer>
