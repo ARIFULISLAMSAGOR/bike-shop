@@ -12,7 +12,6 @@ const SocialService = ({ product }) => {
             <p>Supplier-name:{supplierName}</p>
             <p>{description}</p>
             <button className='btn btn-primary text-center border-none'>Update</button>
-
         </div>
     );
 };
