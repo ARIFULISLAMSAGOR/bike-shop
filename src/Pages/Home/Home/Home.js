@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import SocialService from '../../Service/SocialService/SocialService';
 import Banner from '../Banner/Banner';
+import ExtraSection from '../Extrasection/ExtraSection';
 import './Home.css';
 
 
@@ -23,7 +24,7 @@ const Home = () => {
                     ></SocialService>)
                 }
             </div>
-
+            <ExtraSection></ExtraSection>
         </div>
     );
 };

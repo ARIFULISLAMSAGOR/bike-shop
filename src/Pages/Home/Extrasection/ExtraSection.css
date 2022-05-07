@@ -1,0 +1,8 @@
+.section {
+    background-image: url('../../../images/backgroundjpg.jpg');
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgba(0, 0, 0, 0.5);
+    background-blend-mode: overlay;
+}

@@ -4,7 +4,7 @@
         "name": "Aprilia",
         "description": "Aprilia was founded directly after WW2 as a manufacturer of bicycles, moving to scooters and motorcycles in 1968. Today, Aprilia enjoys success in the competitive sports and adventure bike segments",
         "price": 297000,
-        "supplier-name": "Foshan Haojun Motorcycle Co., Ltd.",
+        "supplierName": "Foshan Haojun Motorcycle Co., Ltd.",
         "img": "https://autoportal.com/img/models/bb/a/rs125.jpg",
         "quantity": 50
     },
@@ -13,7 +13,7 @@
         "name": "BMW",
         "description": "BMW Motorrad was created as a wholly-owned subsidiary of BMW in 1921, to handle building motorcycle and aircraft engines. The first BMW motorcycle was the boxer-engined R32 in 1923",
         "price": 300000,
-        "supplier-name": "Hangzhou Longwin Industry Limited",
+        "supplierName": "Hangzhou Longwin Industry Limited",
         "img": "https://ic1.maxabout.us/autos/tw_india//D/2021/3/dhoom-3-bike-bmw-k1300r.jpg",
         "quantity": 40
     },
@@ -22,7 +22,7 @@
         "name": "Kawasaki",
         "description": "Kawasaki Heavy Industries was started in 1878, as a producer of maritime equipment and vessels. Kawasaki began motorcycle",
         "price": 145000,
-        "supplier-name": "Guangzhou Sonlink Industry Co., Ltd.",
+        "supplierName": "Guangzhou Sonlink Industry Co., Ltd.",
         "img": "https://images.91wheels.com//assets/b_images/main/models/profile/profile1627390481.JPG",
         "quantity": 45
     },
@@ -31,7 +31,7 @@
         "name": "Honda",
         "description": "Aprilia was founded directly after WW2 as a manufacturer of bicycles, moving to scooters and motorcycles in 1968",
         "price": 95000,
-        "supplier-name": "Huaihai Holding Group Co. Ltd.",
+        "supplierName": "Huaihai Holding Group Co. Ltd.",
         "img": "https://images.pexels.com/photos/2393816/pexels-photo-2393816.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
         "quantity": 80
     },
@@ -40,7 +40,7 @@
         "name": "Ducuti",
         "description": "Ducati Motorcycles was formed in 1953, when the Ducati company split into Ducati Elettronica and Ducati Meccanica SpA. They are well known for their powerful",
         "price": 245000,
-        "supplier-name": "Huaihai Holding Group Co. Ltd.",
+        "supplierName": "Huaihai Holding Group Co. Ltd.",
         "img": "https://economictimes.indiatimes.com/thumb/msid-77761097,width-1200,height-900,resizemode-4,imgsize-355003/the-front-headlight-assembly-is-extremely-compact-on-the-ducati-panigale-v2-.jpg?from=mdr",
         "quantity": 30
     },
@@ -49,7 +49,7 @@
         "name": "   Electric bike-bycycle",
         "description": " bicycle, Lightweight, two-wheeled, steerable machine that is propelled by the rider. The wheels are mounted in a metal frame, and the front wheel is held in a movable fork. The rider sits on a saddle and steers with handlebars attached to the fork,",
         "price": 30000,
-        "supplier-name": "Huaihai Holding Group Co. Ltd.",
+        "supplierName": "Huaihai Holding Group Co. Ltd.",
         "img": "https://i.ytimg.com/vi/J3msSrYP_Dw/maxresdefault.jpg",
         "quantity": 120
     },
@@ -58,7 +58,7 @@
         "name": "Suzuki",
         "description": "Suzuki Motors was a transformation of the original Suzuki Loom Works company in 1954, after the textile industry in Japan collapsed. The motorcycle arm of the company",
         "price": 135000,
-        "supplier-name": "Sonlink (Guangzhou) Motor Company Ltd.",
+        "supplierName": "Sonlink (Guangzhou) Motor Company Ltd.",
         "img": "https://cdn.autoportal.com/bp-v3/img/models/cc/5/suzuki-hayate-1464785916.jpg",
         "quantity": 70
     },
@@ -67,7 +67,7 @@
         "name": "Triumph",
         "description": "Triumph Motorcycles is the largest UK-owned motorcycle manufacturer in the world, after purchasing all the rights and models from the defunct Triumph Engineering",
         "price": 150000,
-        "supplier-name": "Moban (Guangzhou) Motor Company Ltd.",
+        "supplierName": "Moban (Guangzhou) Motor Company Ltd.",
         "img": "https://static.autox.com/uploads/bikes/2021/06/yamaha-fz-x.jpg",
         "quantity": 60
     },
@@ -76,7 +76,7 @@
         "name": "Insane Hubbles Bycycle",
         "description": "Yamaha Motor Company was formed in 1955 as an associate company of Yamaha Corporation, which still holds the majority voting stake in the compan",
         "price": 50000,
-        "supplier-name": "Moban (Guangzhou) Motor Company Ltd.",
+        "supplierName": "Moban (Guangzhou) Motor Company Ltd.",
         "img": "https://i5.walmartimages.com/asr/0e6667b7-12e2-42cd-be2b-cc8185e43bb6_1.6c90bfeb9f9a4d02b80f03178b26b639.jpeg",
         "quantity": 150
     },
@@ -85,7 +85,7 @@
         "name": "Royal Enfield",
         "description": "Royal Enfield of India is the second company to bear the name, with a transfer of license from the original Royal Enfield of England in 1968",
         "price": 225000,
-        "supplier-name": "Fosan (Guangzhou) Motor Company Ltd.",
+        "supplierName": "Fosan (Guangzhou) Motor Company Ltd.",
         "img": "https://i5.walmartimages.com/asr/0e6667b7-12e2-42cd-be2b-cc8185e43bb6_1.6c90bfeb9f9a4d02b80f03178b26b639.jpeg",
         "quantity": 90
     }
