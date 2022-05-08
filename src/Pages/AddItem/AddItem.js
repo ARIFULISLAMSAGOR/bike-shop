@@ -18,6 +18,7 @@ const AddItem = () => {
                 console.log(result);
             })
     }
+
     return (
         <div className='w-50 mx-auto'>
             <h2 className='text-center text-primary mt-4'>Add new Item</h2>
@@ -25,6 +26,7 @@ const AddItem = () => {
                 <input className='mb-2' placeholder='name' {...register("name", { required: true, maxLength: 20 })} />
                 <input className='mb-2' placeholder='Photo Url' type="text" {...register("img")} />
                 <input className='mb-2' placeholder='price' type="number" {...register("price")} />
+                <input className='mb-2' placeholder='email' type="email" {...register("price")} />
                 <input className='mb-2' placeholder='quantitty' type="number" {...register("quantity")} />
                 <input className='mb-2' placeholder='supplier-name' {...register("supplierName")} />
                 <textarea className='mb-2' placeholder='description' {...register("description")} />
