@@ -6,7 +6,7 @@ import './ManageInventories.css';
 const ManageInventories = () => {
     const [products, setProducts] = useState([]);
     useEffect(() => {
-        fetch('http://localhost:5000/product')
+        fetch('https://evening-dusk-98750.herokuapp.com/product')
             .then(res => res.json())
             .then(data => setProducts(data))
     }, []);
@@ -15,7 +15,7 @@ const ManageInventories = () => {
         const proceed = window.confirm('Are you sure you want to delete?')
         if (proceed) {
             console.log('deleting user with id', id);
-            const url = `http://localhost:5000/product/${id}`;
+            const url = `https://evening-dusk-98750.herokuapp.com/product/${id}`;
             fetch(url, {
                 method: 'DELETE'
             })

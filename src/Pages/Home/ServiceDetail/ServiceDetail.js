@@ -6,7 +6,7 @@ const ServiceDetail = () => {
     const [product, setProduct] = useState({});
     const restocRef = useRef(0);
     useEffect(() => {
-        const url = `http://localhost:5000/product/${productId}`
+        const url = `https://evening-dusk-98750.herokuapp.com/product/${productId}`
         fetch(url)
             .then(res => res.json())
             .then(data => setProduct(data))
@@ -19,7 +19,7 @@ const ServiceDetail = () => {
             const newItem = { quantity: newQuantity, ...rest }
             setProduct(newItem)
 
-            const url = `http://localhost:5000/product/${productId}`
+            const url = `http://https://evening-dusk-98750.herokuapp.com/product/${productId}`
             fetch(url, {
                 method: 'PUT',
                 headers: {
@@ -42,7 +42,7 @@ const ServiceDetail = () => {
         const newItem = { quantity: newQuantity, ...rest }
         setProduct(newItem)
 
-        const url = `http://localhost:5000/product/${productId}`
+        const url = `http://https://evening-dusk-98750.herokuapp.com/product/${productId}`
         fetch(url, {
             method: 'PUT',
             headers: {

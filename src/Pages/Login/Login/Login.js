@@ -34,6 +34,7 @@ const Login = () => {
         navigate(from, { replace: true });
     }
     const handleUserSignIn = event => {
+
         event.preventDefault();
         signInWithEmailAndPassword(email, password);
     }

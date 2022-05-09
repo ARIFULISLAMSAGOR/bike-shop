@@ -9,7 +9,7 @@ const AddItem = () => {
     const onSubmit = data => {
         const product = { email: user.email }
         console.log(data);
-        const url = `http://localhost:5000/product`;
+        const url = `https://evening-dusk-98750.herokuapp.com/product`;
         fetch(url, {
             method: 'POST',
             headers: {

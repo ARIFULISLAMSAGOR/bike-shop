@@ -6,7 +6,7 @@ project name:Bike wearhouse <br/>
 •adding manageInventory page. </br>
 <br/>
 
-live-website:
+live-website:https://react-bike-shop.web.app 
 <br/>
 Description:adding diferent framework like as bootstraph,react,react-bootstraph and use mongodb,middleware,express,firebase authentication,toast etc.homepage,extra section,add item,manage inventory,login,register,etc all main part are added in website.
 
